@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1059171792712",
+    "firebase_url": "https://veil-aa4b4.firebaseio.com",
+    "project_id": "veil-aa4b4",
+    "storage_bucket": "veil-aa4b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059171792712:android:afdebcece4c6b4ad67657d",
+        "android_client_info": {
+          "package_name": "com.joe.veil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059171792712-29a68pm1gac68dtmqekare1dnpl6qr5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmQAkQRG0qXSvPYSe-RX8QodhELT6XLiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059171792712-29a68pm1gac68dtmqekare1dnpl6qr5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

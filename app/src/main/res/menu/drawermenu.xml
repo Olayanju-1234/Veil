@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dashboard" android:title="Dashboard" />
+    <item android:id="@+id/categoryone" android:title="Category one" />
+    <item android:id="@+id/categorytwo" android:title="Category two" />
+    <item android:id="@+id/categorythree" android:title="Category three" />
+    <item android:id="@+id/logout" android:title="Logout" />
+</menu>
